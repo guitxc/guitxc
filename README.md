@@ -29,7 +29,7 @@
 
 ###
 
-<p data-importer="text" align="left">Sou o Guilherme Sandoli 📍São Paulo, SP<br><br>- 🔭 Trabalhando como Freelance<br>- 📚 Atualmente estudando Java<br>- ⚡ No tempo livre sou Cinéfilo</p>
+<p data-importer="text" align="left">Sou o Guilherme Sandoli 📍São Paulo, SP<br><br>- 📚 Atualmente estudando Java<br>- ⚡ No tempo livre sou Cinéfilo</p>
 
 ###
 
