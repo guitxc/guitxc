@@ -78,7 +78,6 @@ Sou Desenvolvedor Backend Java em formação, com experiência prática construi
   <a href="https://git.io/streak-stats">
     <img width="50%" src="https://streak-stats.demolab.com?user=guitxc&theme=highcontrast&border_radius=14&card_width=450&card_height=180&border=07300C&stroke=0B4912&fire=843300&ring=686868&currStreakNum=CCD8CD&sideNums=CCD8CD&currStreakLabel=1BB320C2&background=45%2C272727%2C000000&sideLabels=CDCDCC&dates=EBEBEB5D"/>
   </a>
-  <img width="35%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=guitxc&layout=compact&bg_color=45%2C272727%2C000000&title_color=CCD8CD&text_color=CDCDCC&icon_color=0B4912&hide_border=true"/>
 </p>
 
 <h2>📫 Contato</h2>
