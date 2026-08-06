@@ -1,54 +1,94 @@
-<h1 align="center">Guilherme Sandoli</h1>
-<h3 align="center">Desenvolvedor Backend | Java & Spring Boot</h3>
+<h1 align="center">👋 Olá, eu sou o Guilherme Sandoli</h1>
 
 <p align="center">
-  📍 São Paulo, SP (zona oeste) &nbsp;•&nbsp;
-  🎯 Buscando estágio/júnior em desenvolvimento backend — presencial (região oeste/centro-oeste de SP), híbrido ou remoto
+  💻 Desenvolvedor Full Stack em formação <br>
+  📍 São Paulo - SP <br>
 </p>
 
+<h2>🚀 Sobre mim</h2>
+
+<p>
+Sou Desenvolvedor Backend Java em formação, com experiência prática construindo APIs REST utilizando Spring Boot, Spring Security/JWT e MySQL, seguindo princípios de POO e arquitetura MVC. Tenho vivência prévia como instrutor de programação e robótica, com foco no ensino de lógica e boas práticas de desenvolvimento para turmas de alunos.
+</p>
+
+<p>
+💡 Atualmente, curso Análise e Desenvolvimento de Sistemas na USJT e participo do Bootcamp Desenvolvedor Full Stack Java na Generation Brasil[cite: 1]. Busco oportunidades como Desenvolvedor Java Júnior ou Estagiário para aplicar e evoluir esses conhecimentos em um ambiente colaborativo.
+</p>
+
+---
+
+<h2 align="center">🔥 Projetos em destaque</h2>
+
+<table align="center">
+  <tr>
+    <td>
+      <h3>☕ Blog Pessoal - API REST</h3>
+      <p>API REST (Java/Spring Boot) para gerenciamento de conteúdo com autenticação JWT via Spring Security. Persistência com Spring Data JPA e MySQL. O projeto inclui testes de integração com JUnit, documentação via Swagger/OpenAPI e deploy containerizado com Docker Compose na Render.</p>
+      <a href="https://github.com/guitxc/blog_pessoal">🔗 Ver projeto</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <h3>🐍 API de Biblioteca CRUD REST</h3>
+      <p>API CRUD desenvolvida em Python e Flask com persistência em banco de dados MySQL, documentada e testada via Postman.</p>
+      <a href="https://github.com/guitxc/api_rest_biblioteca">🔗 Ver projeto</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <h3>🏦 Sistema Bancário Console</h3>
+      <p>Aplicação console em Java simulando operações bancárias. O projeto foi estruturado utilizando Programação Orientada a Objetos (POO), regras de encapsulamento e tratamento de exceções.</p>
+      <a href="https://github.com/guitxc/conta_bancaria">🔗 Ver projeto</a>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/guisandoli/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guitxc/guitxc/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guitxc/guitxc/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/guitxc/guitxc/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
+<h3>🖥️ Tecnologias & Backend</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,python,flask" />
+</p>
+
+<h3>🗄️ Banco de Dados & Cloud</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,aws" />
+</p>
+
+<h3>⚙️ DevOps & Ferramentas</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,idea,vscode" />
+</p>
+
+---
+
+<h2>📊 Estatísticas</h2>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img width="50%" src="https://streak-stats.demolab.com?user=guitxc&theme=highcontrast&border_radius=14&card_width=450&card_height=180&border=07300C&stroke=0B4912&fire=843300&ring=686868&currStreakNum=CCD8CD&sideNums=CCD8CD&currStreakLabel=1BB320C2&background=45%2C272727%2C000000&sideLabels=CDCDCC&dates=EBEBEB5D"/>
   </a>
+  <img width="35%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=guitxc&layout=compact&bg_color=45%2C272727%2C000000&title_color=CCD8CD&text_color=CDCDCC&icon_color=0B4912&hide_border=true"/>
+</p>
+
+<h2>📫 Contato</h2>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/guisandoli/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin-in&logoColor=white">
+  </a>
+  
   <a href="mailto:guisandolidna@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-</p>
-
----
-
-### Sobre mim
-
-Estou cursando **Análise e Desenvolvimento de Sistemas** na USJT (2024–2027) e o **Bootcamp Full Stack Java** da Generation Brasil. Trabalhei anteriormente como instrutor de programação e robótica (Java, Python, C++) na Código Kid Osasco, ensinando lógica de programação e desenvolvimento para turmas iniciantes.
-
-Meu foco é **Java/Spring Boot**; uso **Python/Flask** como stack secundária, com projetos reais aplicando ambas.
-
----
-
-### 🛠️ Stack
-
-**Principal:** Java · Spring Boot · Spring Security (JWT) · JPA/Hibernate · PostgreSQL
-
-**Secundária:** Python · Flask · MySQL
-
-**Ferramentas:** Git · Docker · Postman · Swagger/OpenAPI · IntelliJ IDEA
-
-**Cloud:** AWS Academy Cloud Foundations (certificado)
-
----
-
-### 📂 Projetos em destaque
-
-**[blog_pessoal](https://github.com/guitxc/blog_pessoal)** — API REST em Java/Spring Boot com autenticação JWT (Spring Security), JPA/Hibernate, PostgreSQL, documentação via Swagger/OpenAPI, containerizada com Docker Compose e testes de integração com `@SpringBootTest`. Deploy na Render.
-
-**[api_rest_biblioteca](https://github.com/guitxc/api_rest_biblioteca)** — API CRUD em Python/Flask com MySQL, testada via Postman.
-
-**[IA_previcoes](https://github.com/guitxc/IA_previcoes)** — Modelo de predição de score de crédito em Python, usando Pandas e Scikit-learn.
-
-**[conta_bancaria](https://github.com/guitxc/conta_bancaria)** — Aplicação de console em Java aplicando conceitos de orientação a objetos.
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guitxc&show_icons=true&theme=default&hide_title=true" alt="GitHub stats" />
 </p>
