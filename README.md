@@ -1,64 +1,54 @@
-<div data-importer="border">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Desenvolvedor%20FullStack&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=default" />
-</div>
+<h1 align="center">Guilherme Sandoli</h1>
+<h3 align="center">Desenvolvedor Backend | Java & Spring Boot</h3>
 
-###
+<p align="center">
+  📍 São Paulo, SP (zona oeste) &nbsp;•&nbsp;
+  🎯 Buscando estágio/júnior em desenvolvimento backend — presencial (região oeste/centro-oeste de SP), híbrido ou remoto
+</p>
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" />
-</div>
-
-###
-
-<div data-importer="socials" align="center">
-  <a href="https://www.linkedin.com/in/guisandoli/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/guisandoli/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
-  <a href="mailto:guisandolidna@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  <a href="mailto:guisandolidna@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" alt="Gmail" />
   </a>
-</div>
+</p>
 
-###
+---
 
-<h1 data-importer="text" align="center">Olá! ツ</h1>
+### Sobre mim
 
-###
+Estou cursando **Análise e Desenvolvimento de Sistemas** na USJT (2024–2027) e o **Bootcamp Full Stack Java** da Generation Brasil. Trabalhei anteriormente como instrutor de programação e robótica (Java, Python, C++) na Código Kid Osasco, ensinando lógica de programação e desenvolvimento para turmas iniciantes.
 
-<h3 data-importer="text" align="left">💻  Sobre mim ↷</h3>
+Meu foco é **Java/Spring Boot**; uso **Python/Flask** como stack secundária, com projetos reais aplicando ambas.
 
-###
+---
 
-<p data-importer="text" align="left">Sou o Guilherme Sandoli 📍São Paulo, SP<br><br>- 📚 Atualmente estudando Java<br>- ⚡ No tempo livre sou Cinéfilo</p>
+### 🛠️ Stack
 
-###
+**Principal:** Java · Spring Boot · Spring Security (JWT) · JPA/Hibernate · PostgreSQL
 
-<h3 data-importer="text" align="left">🛠 Linguagens e ferramentas !</h3>
+**Secundária:** Python · Flask · MySQL
 
-###
+**Ferramentas:** Git · Docker · Postman · Swagger/OpenAPI · IntelliJ IDEA
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo" />
-</div>
+**Cloud:** AWS Academy Cloud Foundations (certificado)
 
-###
+---
+
+### 📂 Projetos em destaque
+
+**[blog_pessoal](https://github.com/guitxc/blog_pessoal)** — API REST em Java/Spring Boot com autenticação JWT (Spring Security), JPA/Hibernate, PostgreSQL, documentação via Swagger/OpenAPI, containerizada com Docker Compose e testes de integração com `@SpringBootTest`. Deploy na Render.
+
+**[api_rest_biblioteca](https://github.com/guitxc/api_rest_biblioteca)** — API CRUD em Python/Flask com MySQL, testada via Postman.
+
+**[IA_previcoes](https://github.com/guitxc/IA_previcoes)** — Modelo de predição de score de crédito em Python, usando Pandas e Scikit-learn.
+
+**[conta_bancaria](https://github.com/guitxc/conta_bancaria)** — Aplicação de console em Java aplicando conceitos de orientação a objetos.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=guitxc&show_icons=true&theme=default&hide_title=true" alt="GitHub stats" />
+</p>
