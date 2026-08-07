@@ -12,7 +12,7 @@ Sou Desenvolvedor Backend Java em formação, com experiência prática construi
 </p>
 
 <p>
-💡 Atualmente, curso Análise e Desenvolvimento de Sistemas na USJT e participo do Bootcamp Desenvolvedor Full Stack Java na Generation Brasil[cite: 1]. Busco oportunidades como Desenvolvedor Java Júnior ou Estagiário para aplicar e evoluir esses conhecimentos em um ambiente colaborativo.
+💡 Atualmente, curso Análise e Desenvolvimento de Sistemas na USJT e participo do Bootcamp Desenvolvedor Full Stack Java na Generation Brasil. Busco oportunidades como Desenvolvedor Java Júnior ou Estagiário para aplicar e evoluir esses conhecimentos em um ambiente colaborativo.
 </p>
 
 ---
