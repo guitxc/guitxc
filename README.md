@@ -8,7 +8,7 @@
 <h2>🚀 Sobre mim</h2>
 
 <p>
-Sou Desenvolvedor Backend Java em formação, com experiência prática construindo APIs REST utilizando Spring Boot, Spring Security/JWT e MySQL, seguindo princípios de POO e arquitetura MVC. Tenho vivência prévia como instrutor de programação e robótica, com foco no ensino de lógica e boas práticas de desenvolvimento para turmas de alunos.
+Sou Desenvolvedor FullStack Java em formação, com experiência prática construindo APIs REST utilizando Spring Boot, Spring Security/JWT e MySQL, seguindo princípios de POO e arquitetura MVC. Tenho vivência prévia como instrutor de programação e robótica, com foco no ensino de lógica e boas práticas de desenvolvimento para turmas de alunos.
 </p>
 
 <p>
