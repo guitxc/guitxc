@@ -28,13 +28,12 @@ Sou Desenvolvedor FullStack Java em formação, com experiência prática constr
     </td>
   </tr>
 
-    <tr>
+  <tr>
     <td>
       <h3>📊 Previsão de Score de Crédito com IA</h3>
       <p>Modelo de Machine Learning em Python para previsão de score de crédito de clientes (Ruim/OK/Bom). Comparação entre os algoritmos Random Forest e KNN, com pré-processamento via LabelEncoder e avaliação de acurácia utilizando Pandas e Scikit-learn.</p>
       <a href="https://github.com/guitxc/IA_previcoes">🔗 Ver projeto</a>
     </td>
-    
   </tr>
 
   <tr>
